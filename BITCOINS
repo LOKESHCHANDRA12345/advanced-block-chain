@@ -1,0 +1,6 @@
+Bitcoin: A Peer-to-Peer Electronic Cash System an Overview
+    1.Abstract : A purely peer-to-peer version of electronic cash would allow onlinepayments to be sent directly from one party to another without going through afinancial institution.
+    2.Transactions:We define an electronic coin as a chain of digital signatures. Each owner transfers the coin to the next by digitally signing a hash of the previous transaction and the public key of the next owner
+                  and adding these to the end of the coin. A payee can verify the signatures to verify the chain of ownership.
+    -->If a majority of CPU power is controlled by honest nodes, the honest chain will grow the fastest and outpace any competing chains.
+    
