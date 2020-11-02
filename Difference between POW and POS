@@ -1,0 +1,12 @@
+Proof-of-Work
+Bitcoin’s solution was to use something called Proof-of-Work aka PoW (or “mining,” or “hashing”). Here participating users worked to solve difficult mathematical problems, and then published the solutions. It takes real-world resources like computers and electricity to find these answers. Therefore, there’s no way to “cheat” and pretend that you represent a bigger portion of the mining power on the network than you actually do. As a result, PoW algorithms can use the number and difficulty of solutions being found to measure how much of the network agree on the current state of the blockchain.
+
+The only way to prevent the legitimate users from agreeing to the situation of the blockchain is to control enough of the total computing power that you can pretend the group disagrees with itself. Also, even that your opinion is the real consensus, and all the other users are lying about the state of the blockchain. That requirement for resources is a good thing. This is because it means that interfering with the group’s consensus takes a lot of resources (a.k.a. money).
+
+Unfortunately, PoW consensus algorithms as we presently know them require a constant, ongoing expenditure of resources just to work normally. The work has to happen regardless of whether someone is trying to interfere or not. Also, someone has to pay for it. Most existing PoW Blockchains, such as Bitcoin, pay for these costs with the pre-agreed creation of coins. This is also known as inflation. This salary has to be ruled out.
+
+Proof-of-Stake
+Proof of Stake (PoS) requires users that have a high stake at the currency (i.e. hold a lot of coins). This is to determine the next block. This has a high risk of some party achieving monopoly of the currency. However, there are several methods to prevent that (by allocating random stakeholders to agree on a new block, and others).
+
+Proof-of-Work vs. Proof-of-Stake
+The main difference is that proof-of-work requires burning an external resource (mining hardware) while proof of stake does not. Proof-of-work criticizes that if price/Bitcoin rewards/fees drop then fewer people have incentives to mine. This is turn reduces the security of the system. Proof of stake states criticizes that since it is free to stake/add new blocks to the Blockchain, you could use it to stake several similar coins at the same time.
